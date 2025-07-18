@@ -201,4 +201,4 @@ This project is for personal use. Respect Google's Gemini API terms of service.
 
 **Enjoy chatting with Hatsune Miku! (◕‿◕)♡**
 
-*For the best experience, make sure your Gemini API key has sufficient quota and your internet connection is stable. Let Miku brighten your day with her virtual charm!* 
+*For the best experience, make sure your Gemini API key has sufficient quota and your internet connection is stable. Let Miku brighten your day with her virtual charm!*
